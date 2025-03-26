@@ -1,0 +1,72 @@
+site_name: Tan Zhou
+site_url: https://tankwin08.github.io
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette:
+    primary: blue
+  font:
+    text: 'Open Sans'
+    code: 'Roboto Mono'
+  logo: img/tan_zhou.jpg
+  favicon: img/tan_zhou.jpg
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Skills: skills.md
+  - Projects: 
+    - Overview: projects/index.md
+    - Contributions: 
+      - Overview: projects/contributions/index.md
+      - Waveformlidar R Package: projects/contributions/waveformlidar_r_package.md
+      - Tree Segmentation: projects/contributions/tree_segmentation.md
+    - Creations:
+      - Overview: projects/creations/index.md
+      - Sentimental Analysis: projects/creations/sentimental_analysis.md
+      - Enhanced Fraud Detection: projects/creations/enhanced_fraud_detection.md
+      - PySpark ML: projects/creations/pyspark_ml.md
+      - Bayesian LSTM: projects/creations/bayesian_lstm.md
+      - Time Series Analysis: projects/creations/time_series_analysis.md
+      - NLP SWIVEL: projects/creations/nlp_swivel.md
+      - Ensemble Models: projects/creations/ensemble_models.md
+      - Bayesian NN: projects/creations/bayesian_nn.md
+      - Waveform Processing: projects/creations/waveform_processing.md
+  - Publications: publications.md
+  - Experience: experience.md
+  - Education: education.md
+
+markdown_extensions:
+  - meta
+  - tables
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.emoji
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+  - tags
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tankwin08
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tan-zhou-56774471/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/TanZhou17
