@@ -2,6 +2,21 @@
 
 ![Profile Picture](/img/tan_zhou.jpg){ .profile-pic }
 
+## Welcome
+
+Senior Data Scientist with expertise in machine learning, statistical modeling, and data analysis. Currently focused on developing innovative solutions for complex business problems using advanced analytics and AI.
+
+### Quick Links
+- Location: St. Louis, MO
+- Email: tankchow12@gmail.com
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/tan-zhou-56774471/)
+- [GitHub](https://github.com/tankwin08)
+- [Google Scholar](https://scholar.google.com/citations?user=wiadguYAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Tan_Zhou)
+- [Twitter](https://twitter.com/TanZhou17)
+
 ## About Me
 
 I am a Senior Data Scientist with 8+ years of experience (both industry and academic) in developing innovative solutions to business problems using quantitative and machine learning models.
