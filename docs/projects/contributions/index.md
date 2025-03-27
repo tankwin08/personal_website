@@ -9,7 +9,7 @@ An R package dedicated to Full Waveform (FW) LiDAR data processing, analysis, an
 
 [Learn More](waveformlidar_r_package.md)
 
-### Tree Segmentation Algorithm
+### Tree Segmentation Algorithm (not finised)
 ![Tree Segmentation](../../img/tree_segmentation.png){ align=right width="30%" }
 
 Developed advanced algorithms for individual tree detection and segmentation using LiDAR point cloud data, incorporating machine learning techniques for improved accuracy.

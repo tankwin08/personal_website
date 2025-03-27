@@ -1,11 +1,21 @@
 # Skills
 
 ## Languages, Operating Systems & Tools
-- Python
-- R
-- git
-- linux
-- bash
+- Python, R, SQL, JavaSCript, HTML, CSS
+- git, linux, bash, Docker, Kubernetes
+- GCP, AZURE (LLM based services), AWS, Pyspark
+
+## GenAI
+- Langchain
+- AZURE OpenAI, Azure Form Recognizer, Google Vertex AI
+- Ollama, Deepseek, OpenCV
+- RAG, Fine-tuning, Prompt Engineering, LLMs, AgentAI, deep research
+
+## Data Science
+- Data Cleaning
+- Data Visualization
+- Data Wrangling
+- Data Analysis/modelling
 
 ## Machine Learning
 - Bayesian
@@ -26,10 +36,3 @@
 - Factor Analysis
 - Mixed Effect Modeling
 
-## Platform Development & Administration
-- MySQL
-- Domino Data Lab
-
-## Big Data & Cloud
-- AWS
-- PySpark

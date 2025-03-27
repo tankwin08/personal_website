@@ -11,7 +11,6 @@
 ### Machine Learning Applications
 - [Sentimental Analysis](sentimental_analysis.md)
 - [Enhanced Fraud Detection](enhanced_fraud_detection.md)
-- [PySpark ML Solutions](pyspark_ml.md)
 - [Time Series Analysis](time_series_analysis.md)
 
 ### Deep Learning & Advanced Analytics

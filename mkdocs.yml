@@ -19,8 +19,9 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
+  - Experience: experience.md
   - Skills: skills.md
+  - Education: education.md
   - Projects: 
     - Overview: projects/index.md
     - Contributions: 
@@ -31,16 +32,14 @@ nav:
       - Overview: projects/creations/index.md
       - Sentimental Analysis: projects/creations/sentimental_analysis.md
       - Enhanced Fraud Detection: projects/creations/enhanced_fraud_detection.md
-      - PySpark ML: projects/creations/pyspark_ml.md
       - Bayesian LSTM: projects/creations/bayesian_lstm.md
       - Time Series Analysis: projects/creations/time_series_analysis.md
       - NLP SWIVEL: projects/creations/nlp_swivel.md
       - Ensemble Models: projects/creations/ensemble_models.md
       - Bayesian NN: projects/creations/bayesian_nn.md
       - Waveform Processing: projects/creations/waveform_processing.md
-  - Publications: publications.md
-  - Experience: experience.md
-  - Education: education.md
+  - Publications: publications/index.md
+
 
 markdown_extensions:
   - meta
