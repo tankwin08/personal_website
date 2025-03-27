@@ -1,37 +1,20 @@
 # Tan Zhou
 
-![Profile Picture](/img/tan_zhou.jpg){ .profile-pic }
+<div class="social-links" style="margin-bottom: 2em;">
+  <a href="https://www.linkedin.com/in/tan-zhou-56774471/" target="_blank"><i class="fab fa-linkedin fa-2x" style="margin-right: 20px;"></i></a>
+  <a href="https://github.com/tankwin08" target="_blank"><i class="fab fa-github fa-2x" style="margin-right: 20px;"></i></a>
+  <a href="https://scholar.google.com/citations?user=wiadguYAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap fa-2x" style="margin-right: 20px;"></i></a>
+  <a href="https://twitter.com/TanZhou17" target="_blank"><i class="fab fa-twitter fa-2x" style="margin-right: 20px;"></i></a>
+</div>
+
+![Profile Picture](img/tan_zhou.jpg){ .profile-pic }
 
 ## Welcome
 
-Senior Data Scientist with expertise in machine learning, statistical modeling, and data analysis. Currently focused on developing innovative solutions for complex business problems using advanced analytics and AI.
+Hello! I'm Tan Zhou, a Data Scientist and ML professional with over 8 years of experience in machine learning, Generative AI, and statistical modeling. Currently, I lead data science initiatives at Equinix, where I develop innovative GenAI solutions—like an enterprise HR bot and a document processor—to drive efficiency and solve complex business challenges.
 
-### Quick Links
+With a Ph.D. in Applied Statistics from Texas A&M University, I specialize in leveraging ML/DL, LLMs, and advanced analytics to transform data into actionable insights. My work spans industries, from predictive maintenance and pricing systems to geospatial analysis and sustainability dashboards. I'm passionate about building scalable AI solutions and collaborating with teams to deliver impact.
+
+### Contact & Location
 - Location: St. Louis, MO
 - Email: tankchow12@gmail.com
-
-### Connect
-- [LinkedIn](https://www.linkedin.com/in/tan-zhou-56774471/)
-- [GitHub](https://github.com/tankwin08)
-- [Google Scholar](https://scholar.google.com/citations?user=wiadguYAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Tan_Zhou)
-- [Twitter](https://twitter.com/TanZhou17)
-
-## About Me
-
-I am a Senior Data Scientist with 8+ years of experience (both industry and academic) in developing innovative solutions to business problems using quantitative and machine learning models.
-
-I obtained my Ph.D. from Texas A&M University with the major of Applied Statistics and Geo-computation focusing on signal processing, Bayesian and Machine learning.
-
-I specialized in writing for publication, algorithm development, and applying machine learning models to develop analytical solutions using various kinds of data such as time series data, text, geospatial and remote sensing data.
-
-### Contact
-- Location: St. Louis, MO
-- Email: tankchow12@gmail.com
-
-### Connect
-- [LinkedIn](https://www.linkedin.com/in/tan-zhou-56774471/)
-- [GitHub](https://github.com/tankwin08)
-- [Google Scholar](https://scholar.google.com/citations?user=wiadguYAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Tan_Zhou)
-- [Twitter](https://twitter.com/TanZhou17)
