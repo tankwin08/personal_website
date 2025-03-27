@@ -1,17 +1,21 @@
-# Personal Projects
+# Professional Projects
 
-## Sentimental Analysis using BERT
-![Word Cloud](/img/word_cloud_tweet.png){ align=right width="30%" }
+## Recent Projects
 
-Predict sentiment (positive, neutral, negative) of customer feedback using tweet texts from different airline companies and compare different models' performance on text classification.
+### Generative AI Solutions
+- Enterprise HR Chatbot Development
+- Intelligent Document Processing System
+- ML-Driven Predictive Maintenance
+- Sustainability Analytics Dashboard
 
-[Read more...](/projects/creations/sentimental_analysis)
+### Machine Learning Applications
+- [Sentimental Analysis](sentimental_analysis.md)
+- [Enhanced Fraud Detection](enhanced_fraud_detection.md)
+- [PySpark ML Solutions](pyspark_ml.md)
+- [Time Series Analysis](time_series_analysis.md)
 
-## Enhanced Fraud Detection with PySpark
-![Feature Importance](/img/feature_importance_pyspark.png){ align=right width="30%" }
-
-Developed a generalized model to deal with big and imbalanced data prediction suitable for real-time fraud detection using the PySpark framework.
-
-[Read more...](/projects/creations/enhanced_fraud_detection)
-
-[Additional projects...]
+### Deep Learning & Advanced Analytics
+- [Bayesian LSTM](bayesian_lstm.md)
+- [NLP SWIVEL](nlp_swivel.md)
+- [Ensemble Models](ensemble_models.md)
+- [Bayesian Neural Networks](bayesian_nn.md)
