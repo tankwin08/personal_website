@@ -4,7 +4,7 @@
 
 ### Generative AI Solutions
 - Enterprise HR Chatbot Development
-- Intelligent Document Processing System
+- [Intelligent Document Processing System](intelligent_document_processing_system.md)
 - ML-Driven Predictive Maintenance
 - Sustainability Analytics Dashboard
 

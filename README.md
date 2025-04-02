@@ -6,6 +6,10 @@ how to set up locally:
 cd /Users/tankwin08/Desktop/projects/personal/personal_website
 mkdocs serve
 ```
+if you have an error to run at default port 8000, you can run:
+``` 
+mkdocs serve -a localhost:8001 
+```
 
 how to deploy:
 
