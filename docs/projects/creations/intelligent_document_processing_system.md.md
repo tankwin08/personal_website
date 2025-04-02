@@ -6,6 +6,8 @@
 
 The Intelligent Document Processing System is a powerful application that leverages cutting-edge generative AI techniques to extract, analyze, and interact with information from various document types. This system transforms the way organizations handle document-based information by enabling natural language queries against document content.
 
+![solution demo](/img/genai_rag.png)
+
 ## Key Features
 
 - **Multi-format Document Support**: Process PDFs, Word documents, text files, CSVs, PowerPoint presentations, and even images
@@ -61,7 +63,6 @@ This intelligent document processing system delivers significant value by:
 We're continuously improving the system with plans to add:
 
 - Multi-modal document understanding (images within documents)
-- Document summarization capabilities
 - Custom fine-tuning options for domain-specific applications
 - Enhanced metadata filtering and search
 
