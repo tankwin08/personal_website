@@ -1,6 +1,6 @@
 # Experience
 
-## Data Science Manager
+## Data Science Manager (Technical lead)
 **Equinix, remote** |  Jan 2024 - present
 
 **Led enterprise HR bot development**: Design and Enhanced GenAI based UX

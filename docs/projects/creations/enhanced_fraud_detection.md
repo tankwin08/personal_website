@@ -1,6 +1,6 @@
 # Enhanced Fraud Detection System
 
-![Feature Importance](../../img/feature_importance_pyspark.png){ align=right width="30%" }
+![Feature Importance](../../img/feature_importance_pyspark.png){ align=right width="120%" }
 [Project link](https://github.com/tankwin08/Improved_fraud_detection_PySpark_feature_importances)
 
 ## Overview

@@ -1,6 +1,6 @@
 # Time Series Analysis
 
-![Time Series](../../img/time_series.png){ align=right width="30%" }
+![Time Series](../../img/time_series.png){ align=right width="100%" }
 
 ## Overview
 Implemented advanced time series analysis models for forecasting and anomaly detection in business metrics.
