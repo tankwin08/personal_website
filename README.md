@@ -1,4 +1,10 @@
 
+## prerequisites
+```
+pip install mkdocs
+pip install mkdocs-material
+```
+## how to run
 
 how to set up locally:
 
