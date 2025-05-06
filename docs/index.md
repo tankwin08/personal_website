@@ -13,7 +13,7 @@
 
 Hello! I'm Tan Zhou, a Data Scientist and ML professional with over 8 years of experience in machine learning, Generative AI, and statistical modeling. Currently, I lead data science initiatives, where I developed innovative GenAI solutions—like an enterprise HR bot and a document processor—to drive efficiency and solve complex business challenges.
 
-With a Ph.D. in Applied Statistics from Texas A&M University, I specialize in leveraging ML/DL, LLMs, and advanced analytics to transform data into actionable insights and drive business value and impact. My work spans industries, from Finanace (e.g. pricing systems, contract health), HR, and Operation (predictive maintenance) to geospatial analysis and sustainability dashboards. I'm passionate about building scalable AI solutions and collaborating with teams to deliver impact.
+With a Ph.D. in Applied Statistics & Geocomputation from Texas A&M University, I specialize in leveraging ML/DL, LLMs, and advanced analytics to transform data into actionable insights and drive business value and impact. My work spans industries, from Finanace (e.g. pricing systems, contract health), HR, and Operation (predictive maintenance) to geospatial analysis and sustainability dashboards. I'm passionate about building scalable AI solutions and collaborating with teams to deliver impact.
 
 ### Contact & Location
 - Location: St. Louis, MO

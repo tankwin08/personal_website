@@ -22,13 +22,16 @@ actionable insights for risk management.
 for renewals and new deals with explainable AI, cutting manual effort, scaling
 operations, and increasing user trust & understanding.
 
+**Conducted LLM Fine-Tuning for Strategic Optimization**: Fine-tuned GPT-3.5 and LLaMA models to compare fine-tuning vs RAG approaches, evaluating accuracy and cost to guide company AI strategies. Utilized Lora and custom evaluation frameworks to assess performance to provide clear insights for scalable AI adoption.
+
 **Developed audio-based predictive maintenance system**: Employed ML/ DL(CNN)
 to analyze audio data from IBX, enhancing safety by predicting failures, reducing
 downtime for improved productivity and customer experience.
 
 **Designed and led sustainability dashboard development**: Utilized ETS time
 series models to forecast carbon footprint, delivering insights for emission
-reduction targets, supporting climate neutrality commitment
+reduction targets, supporting climate neutrality commitment.
+
 
 ## Senior Data Scientist
 **Colaberry/Bayer Crop Science** - St. Louis | July2018 - Agu 2021
