@@ -26,7 +26,7 @@ Note: If this is your first deployment, you might need to:
 3. Ensure the source is set to "gh-pages" branch
 
 ```
-mkdocs gh-deploy
+mkdocs gh-deploy --force
 ```
 
 After deployment completes, your site should be available at: https://tankwin08.github.io/personal_website
